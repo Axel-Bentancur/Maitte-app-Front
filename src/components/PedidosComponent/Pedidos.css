@@ -1,0 +1,14 @@
+.list-group-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input-group {
+  width: 120px;
+}
+
+.list-group {
+  margin-bottom: 20px;
+}

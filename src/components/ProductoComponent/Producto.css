@@ -1,0 +1,54 @@
+/** Form Styles*/
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  padding: 20px;
+}
+
+.header h2 {
+  margin: 0;
+}
+
+.form {
+  padding: 0 40px;
+}
+.form-group {
+  margin-bottom: 0;
+}
+
+.form-group input,
+select {
+  margin-bottom: 10px;
+}
+.form-group i,
+small {
+  margin-right: 10px;
+  color: #ee686e;
+}
+.error {
+  border: 1px solid #ee686e;
+}
+.button {
+  margin-top: 20px;
+}
+
+/*------------------------PRODUCTO LIST----------------------------*/
+.list-container {
+  height: 70vh;
+  padding-right: 15px;
+  overflow-y: auto;
+}
+
+.producto-titulo {
+  font-size: 20px;
+  margin: auto 0;
+}
+.modelos-detalle {
+  margin: auto 0;
+}
+
+.precio {
+  color: cornflowerblue;
+}
